@@ -65,7 +65,7 @@ def train_deep():
         'num_heads_per_layer': 3,
         'num_embedding_features': 128,
         'num_hidden_layers': 2,
-        'num_epoch': 100,
+        'num_epoch': 30,
         'knn_nums': 25,
         'lr': 1e-3,
         'weight_decay': 5e-3,
